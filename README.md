@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Game of the Year - The Game Awards 2019 Best Action Game of 2019 - IGN Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series. Take Revenge. Restore Your Honor. Kill Ingeniously.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i3-2100 | AMD FX-6300 / Rec: Intel Core i5-2500K | AMD Ryzen 5 1400 | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: NVIDIA GeForce GTX 760 | AMD Radeon HD 7950 / Rec: NVIDIA GeForce GTX 970 | AMD Radeon RX 570 | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 25 GB available space | 25 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit | Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bit |
+| **Sound Card** | DirectX 11 Compatible | DirectX 11 Compatible |
 
 ---
 
